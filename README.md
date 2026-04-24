@@ -14,22 +14,22 @@ Pure PLA is probably not a good idea as the parts are subjected to weather and s
 <br>
 
 ## The end result
-![My Photo](assets/Garmin Mount.png)
+![My Photo](assets/Garmin_Mount.png)
 The Garmin adapter in the BMW cradle.
 
 ## The mount distance
-![My Photo](assets/Garmin Mount Distance.png)
+![My Photo](assets/Garmin_Mount_Distance.png)
 This part "lifts up" the Garmin so it goes free of the edges of the BMW cradle.<br>
 This is the **BMW GPS Cradle Distance for Garmin XT2.stl** file
 
 
 ## The mount lock
-![My Photo](assets/Garmin Mount Lock.png)
+![My Photo](assets/Garmin_Mount_Lock.png)
 This parts allow you to lock the mount similar to the original BMW lock.<br>
 This is the **BMW GPS Cradle Lock for Garmin XT2.stl** file
 
 ## The power plug
-![My Photo](assets/BMW Power Plug.png)
+![My Photo](assets/BMW_Power_Plug.png)
 This connector plugs into the BMW wiring harness instead of the BMW nav cable.
 You can connect this to the Garmin cable.<br>
 **Please make sure you get the polarity right on the cable.**
